@@ -274,7 +274,7 @@ margin-left: auto;
         .content-img{
             width: 100%;
             height: 192px;
-            background-image: url(./images/메인/Layer\ 6.png);
+            background-image: url(./images/메인/image6.png);
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -283,7 +283,7 @@ margin-left: auto;
         .content-img2{
             width: 100%;
             height: 192px;
-            background-image: url(./images/메인/Layer\ 3.JPG);
+            background-image: url(./images/메인/image3.jpg);
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -292,7 +292,7 @@ margin-left: auto;
         .content-img3{
             width: 100%;
             height: 192px;
-            background-image: url(./images/메인/Layer\ 4.JPG);
+            background-image: url(./images/메인/image4.jpg);
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -311,7 +311,7 @@ margin-left: auto;
             width: 1200px;
             height: 234px;
             margin: 0 auto;
-            background-image: url(./images/메인/Layer\ 8.jpg);
+            background-image: url(./images/메인/image8.jpg);
             margin-bottom: 47px;
         }
         .notice, .notice2{
